@@ -1,0 +1,45 @@
+body{
+    background:rgb(6, 6, 73);
+}
+.container{
+    width: 90%;
+    max-width: 600px;
+    background: white;
+    padding: 30px;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+.user-img{
+    width: 30px;
+}
+.email-img{
+    width: 30px;
+}
+.password-img{
+    width: 38px;
+}
+.center{
+    margin: 0 17%;
+}
+#heading-text{
+    padding-bottom: 17px;
+    border-bottom: 2px solid darkblue;
+    color:  #060649;
+    font-weight: 100;
+}
+
+.submit-after{
+    border: 1px solid #060649 ;
+    background: #060649;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+
+.submit-after:hover{
+    border: 1px solid #060649 ;
+    color: #060649;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background: white;
+}

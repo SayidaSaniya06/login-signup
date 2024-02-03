@@ -1,0 +1,19 @@
+.person-img{
+    width: 30px;
+    border-radius: 10px;
+    margin-left: -4px;
+    object-fit: fill;
+}
+.btn-round{
+    border-radius: 50%;
+    width: 47px;
+}
+.flex-class{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 90%;
+    max-width: 600px;
+}
